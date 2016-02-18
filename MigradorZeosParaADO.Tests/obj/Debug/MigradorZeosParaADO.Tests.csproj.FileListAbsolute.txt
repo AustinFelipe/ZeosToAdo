@@ -1,0 +1,8 @@
+C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO.Tests\bin\Debug\MigradorZeosParaADO.Tests.dll
+C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO.Tests\bin\Debug\MigradorZeosParaADO.Tests.pdb
+C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO.Tests\bin\Debug\MigradorZeosParaADO.exe
+C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO.Tests\bin\Debug\MigradorZeosParaADO.pdb
+C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO.Tests\obj\Debug\MigradorZeosParaADO.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO.Tests\obj\Debug\MigradorZeosParaADO.Tests.dll
+C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO.Tests\obj\Debug\MigradorZeosParaADO.Tests.pdb
