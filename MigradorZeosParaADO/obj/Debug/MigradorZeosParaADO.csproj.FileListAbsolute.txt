@@ -1,9 +1,0 @@
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\bin\Debug\MigradorZeosParaADO.exe.config
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\bin\Debug\MigradorZeosParaADO.exe
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\bin\Debug\MigradorZeosParaADO.pdb
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\obj\Debug\MigradorZeosParaADO.csprojResolveAssemblyReference.cache
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\obj\Debug\MigradorZeosParaADO.Form1.resources
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\obj\Debug\MigradorZeosParaADO.Properties.Resources.resources
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\obj\Debug\MigradorZeosParaADO.csproj.GenerateResource.Cache
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\obj\Debug\MigradorZeosParaADO.exe
-C:\Users\Sistema\Documents\MigradorZeosParaADO\MigradorZeosParaADO\obj\Debug\MigradorZeosParaADO.pdb
