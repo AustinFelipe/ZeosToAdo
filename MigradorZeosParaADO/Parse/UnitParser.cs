@@ -14,11 +14,17 @@ namespace MigradorZeosParaADO.Parse
         /// <returns>Unit parsed</returns>
         public IEnumerable<Unit> GetParsed(string toParse)
         {
-            var pattern = "unit?;";
+            var pattern = @"unit[\n\s\w\W]*?;";
             var matches = Regex.Matches(toParse, pattern, RegexOptions.IgnoreCase);
+            var clearDeclaration = string.Empty;
 
             if (matches.Count > 2)
                 throw new ArgumentException("toParser has more than 2 unit declarations");
+
+            foreach (Match match in matches)
+            {
+                
+            }
 
             return new List<Unit>();
         }
