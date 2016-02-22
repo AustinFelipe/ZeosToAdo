@@ -3,6 +3,9 @@
     public class Unit
     {
         public string Name { get; set; }
-        public UnitPosition Position { get; set; } = UnitPosition.Top;
+
+        public InterfaceDeclaration Interface { get; set; }
+
+        public ImplementationDeclaration Implementation { get; set; }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace MigradorZeosParaADO.DelphiParts
 {
-    public enum UnitPosition
+    public enum UsesPosition
     {
         Top,
         Bottom
